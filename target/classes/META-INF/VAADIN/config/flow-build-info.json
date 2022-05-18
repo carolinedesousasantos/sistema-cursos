@@ -1,0 +1,11 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/home/caroline/Repository/sistema-cursos",
+  "generatedFolder": "/home/caroline/Repository/sistema-cursos/target/frontend",
+  "frontendFolder": "/home/caroline/Repository/sistema-cursos/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "node.version": "v14.15.4",
+  "node.download.root": "https://nodejs.org/dist/"
+}
